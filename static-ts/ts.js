@@ -356,7 +356,7 @@
         if (score <= 99) return '我不同意你的观点（黑脸';
         if (score <= 149) return '啊是不是同学们（田师笑';
         if (score <= 199) return '大家觉得呢（当然是雅了';
-        return '太雅了（主角捂脸';
+        return '你他妈是不是开挂了？？？';
     }
 
     w.toStr = function(obj) {
