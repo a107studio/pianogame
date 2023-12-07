@@ -256,119 +256,120 @@ body {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
     filter:hue-rotate(45deg);
+    filter:contrast(25%);
 }
 .tt2
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter:hue-rotate(135deg);
+    filter:hue-rotate(135deg);    filter:contrast(25%);
 }
 .tt3
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter:hue-rotate(315deg);
+    filter:hue-rotate(315deg);    filter:contrast(25%);
 }
 .tt4
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter:hue-rotate(225deg);
+    filter:hue-rotate(225deg);    filter:contrast(25%);
 }
 .tt5 
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(90deg);
+    filter: hue-rotate(90deg);    filter:contrast(25%);
 }
 .tt6
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(108deg);
+    filter: hue-rotate(108deg);    filter:contrast(25%);
 }.tt7
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(126deg);
+    filter: hue-rotate(126deg);    filter:contrast(25%);
 }.tt8
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(144deg);
+    filter: hue-rotate(144deg);    filter:contrast(25%);
 }.tt9
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(5deg);
+    filter: hue-rotate(5deg);    filter:contrast(25%);
 }
 .tt10
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(180deg);
+    filter: hue-rotate(180deg);    filter:contrast(25%);
 }
 .tt11
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(198deg);
+    filter: hue-rotate(198deg);    filter:contrast(25%);
 }
 .tt12
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(216deg);
+    filter: hue-rotate(216deg);    filter:contrast(25%);
 }
 .tt13
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(234deg);
+    filter: hue-rotate(234deg);    filter:contrast(25%);
 }
 .tt14
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(252deg);
+    filter: hue-rotate(252deg);    filter:contrast(25%);
 }
 .tt15 
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(270deg);
+    filter: hue-rotate(270deg);    filter:contrast(25%);
 }
 .tt16 
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(88deg);
+    filter: hue-rotate(88deg);    filter:contrast(25%);
 }
 .tt17 
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(324deg);
+    filter: hue-rotate(324deg);    filter:contrast(25%);
 
 }
 .tt18 
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(114deg);
+    filter: hue-rotate(114deg);    filter:contrast(25%);
 }
 .tt19 
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
-    filter: hue-rotate(320deg);
+    filter: hue-rotate(320deg);    filter:contrast(25%);
 }
 .tt20
 {
     background-size: auto 100%;
     background-image: url(./image/1.jpg);
     filter: hue-rotate(240deg);
-    filter:opacity(20);
+    filter:opacity(20);    filter:contrast(25%);
 }
 .bl {
     border-left: 1px solid #b8dfe6;
